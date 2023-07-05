@@ -1,4 +1,4 @@
-<img src= "![image](https://github.com/Yadav-Roshan/Yadav-Roshan/assets/31336534/6d0b6eec-8ae2-4b36-8677-ad29bf02662a)">
+<img src= "https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/Ai-ml-1000x500.png">
 
 # 💫 About Me:
 
