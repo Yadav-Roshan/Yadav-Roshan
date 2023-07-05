@@ -1,3 +1,4 @@
+<img src= "![image](https://github.com/Yadav-Roshan/Yadav-Roshan/assets/31336534/6d0b6eec-8ae2-4b36-8677-ad29bf02662a)">
 # 💫 About Me:
 
 - 🔭 I’m currently working on <b>Synthetic Bio-Signal Generation using GANs</b>.
