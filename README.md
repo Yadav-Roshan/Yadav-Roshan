@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on <b>building a system which can replace background and person with cartoon character with same pose and facial structure on a said background in a video.</b>.
-- 🌱 I’m currently learning <b>Reinforcement Learning and Optimization of AI Algorithms</b>.
+- 🌱 I’m currently learning <b>Reinforcement Learning, Optimization of AI Algorithms and Deployment of these tools for use (UI/UX)</b>.
 - 👯 I’m looking to collaborate on <b>any real-life challenging problem which can be solved using AI.</b>.
 
 
