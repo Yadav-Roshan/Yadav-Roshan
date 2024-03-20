@@ -1,5 +1,3 @@
-<img src= "https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/Ai-ml-1000x500.png">
-
 # 💫 About Me:
 
 - 🔭 I’m currently working on <b>Synthetic Bio-Signal Generation using GANs</b>.
